@@ -40,12 +40,6 @@
   text-decoration: none;
 }
 
-.recent-work {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1em;
-}
-
 .header-social {
   width: 200px;
   height: 100px;
@@ -53,12 +47,14 @@
   margin: auto;
 }
 
-
 @media only screen and (min-width: 768px) {
   .recent-work {
     grid-template-columns:repeat(2, 1fr);
   }
 
+  .footer-items {
+    margin: 0 auto;
+  }
 
 
 }
