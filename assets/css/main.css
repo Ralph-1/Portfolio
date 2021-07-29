@@ -2566,6 +2566,7 @@ input, select, textarea {
 		.work-item p {
 			line-height: 1.5em;
 			margin: 0;
+			color: #454040;
 		}
 
 		.work-item img {
@@ -2633,7 +2634,7 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			color: rgba(192, 192, 192, 0.5);
+			color: #C0C0C0;
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
